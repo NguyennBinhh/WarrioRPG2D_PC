@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster
+  - Skill
+  - Sword
+  - Sword_Stab
+  - Expolision_Range
+  - Map
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - LevelMeter
+  - Water
+  - UI
+  - VFX
+  - Player
+  - Map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3175432485
+    locked: 0
+  - name: Ground
+    uniqueID: 4217560837
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Monster
+    uniqueID: 1310781489
+    locked: 0
+  - name: Player
+    uniqueID: 456875869
+    locked: 0
+  - name: Canvas
+    uniqueID: 2515507385
+    locked: 0
